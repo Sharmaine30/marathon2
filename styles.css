@@ -24,6 +24,7 @@ label{
     font-weight: 700;
 }
 
+
 .navbar-brand img {
     margin-right: 8px;
 }
@@ -80,6 +81,7 @@ form {
     margin: 45px;
     padding: 50px;
     border-radius: 30px;
+    resize: none;
 }
 
 h4{
